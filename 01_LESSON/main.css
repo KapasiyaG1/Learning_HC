@@ -36,3 +36,16 @@ h3{
 p:hover{
     color: black;
 }
+
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 200px;
+}
+
+.formtag{
+    border: solid;
+    border-color: black;
+    text-align: center;
+    
+}
