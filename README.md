@@ -70,8 +70,8 @@ Chapter 2: Head Element
             3. External - by using a <link/> element to link to an external CSS file.
             
             
-        
-(Anime Summer time rendaring)
+(Anime summer time rendering)
+
 
 Chapter 3: Text Basics
 
