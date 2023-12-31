@@ -1,0 +1,51 @@
+html{
+    font-size: 22px;
+}
+
+body{
+    background-color: #cbe279;
+    color: aliceblue;
+}
+
+a{
+    color: azure;
+}
+
+a:visited{
+    color: aqua;
+}
+
+a:hover, a:active{
+    color: black;
+}
+
+h1{
+    color: rgb(169, 20, 255);
+    text-align: center;
+}
+
+h1:hover{
+    color: black;
+}
+
+h3{
+    color: aqua;
+    text-align: center;
+}
+
+p:hover{
+    color: black;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 200px;
+}
+
+.formtag{
+    border: solid;
+    border-color: black;
+    text-align: center;
+    
+}
